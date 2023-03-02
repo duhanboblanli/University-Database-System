@@ -27,19 +27,19 @@ and the structures in the former design while introducing and integrating the ne
 
 ##  Here are the newly added requirements:
 
-● Database should keep track of the curriculums of each of the following departments in Turkey, respectively, Computer Engineering, Software Engineering, Artificial Intelligence Engineering.
+* Database should keep track of the curriculums of each of the following departments in Turkey, respectively, Computer Engineering, Software Engineering, Artificial Intelligence Engineering.
 
-● Each curriculum is composed of its own courses of type mandatory, optional (technical or non-technical).
+* Each curriculum is composed of its own courses of type mandatory, optional (technical or non-technical).
 
-● Design should have entities like CHAIR, FACULTY MEMBER (PROFESSOR, ASSOCIATE PROFESSOR, ASSISTANT PROFESSOR, INSTRUCTOR, RESEARCH ASSISTANT)
+* Design should have entities like CHAIR, FACULTY MEMBER (PROFESSOR, ASSOCIATE PROFESSOR, ASSISTANT PROFESSOR, INSTRUCTOR, RESEARCH ASSISTANT)
 
-● Design should be able to store the instructors of the courses with their SECTION information.
+* Design should be able to store the instructors of the courses with their SECTION information.
 
-● You should store information about the research areas of the FACULTY MEMBERs, their M.Sc. and Ph.D. theses.
+* You should store information about the research areas of the FACULTY MEMBERs, their M.Sc. and Ph.D. theses.
 
-● You should also store the keywords associated with each course and these keywords should be related to the research areas of the FACULTY MEMBERs to find whether a given COURSE is instructed by the most matched FACULTY MEMBER.
+* You should also store the keywords associated with each course and these keywords should be related to the research areas of the FACULTY MEMBERs to find whether a given COURSE is instructed by the most matched FACULTY MEMBER.
 
-● For each of the course and curriculum, you should store a computed value of this matching criteria.
+* For each of the course and curriculum, you should store a computed value of this matching criteria.
 
 ## Relational Model with New Requirements 
 ![Relational_Model](https://user-images.githubusercontent.com/77344408/222262764-a0e6837c-1e9b-4a43-81d0-cf2a116b017e.png)
