@@ -3,7 +3,7 @@
 
 ![Badge](https://img.shields.io/badge/University_Database-System-blue)
 ![badge](https://img.shields.io/badge/Database_Management-Project-green)
-![badge](https://img.shields.io/badge/Platfrom-MySQL-orange)
+![badge](https://img.shields.io/badge/Language-MySQL-orange)
 
 ## Brief Explanation
 
