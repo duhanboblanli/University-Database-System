@@ -1,4 +1,4 @@
-# University-Database-System
+# University Database System
 
 
 ![Badge](https://img.shields.io/badge/University_Database-System-blue)
